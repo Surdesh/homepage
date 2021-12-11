@@ -1,0 +1,195 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    background-color: #0000ff;
+    height: 50px;
+    width: auto;
+
+}
+
+.socialmedia {
+    display: inline;
+    margin-left: 80px;
+    margin-top: 10px
+}
+
+.buttons {
+    float: right;
+    height: 20px;
+    margin-top: 10px;
+    margin-right: 80px;
+}
+
+.navbar {
+    height: auto;
+    background-color: #F5F5F5;
+    width: auto;
+
+}
+
+.logo {
+    float: left;
+    margin-left: 50px;
+}
+
+.navitems {
+    float: right;
+    margin-right: 50px;
+}
+
+.marquee {
+    background-color: #0000ff;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.bottom {
+    background-color: #F5F5F5;
+}
+
+.introduction {
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: auto;
+    margin-top: 10px;
+}
+
+.paragraph {
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: 'Times New Roman', Times, serif;
+    height: 400px;
+}
+
+.ratings {
+    height: 400px;
+    background-color: #0000ff;
+
+}
+
+.food, .education, .medical, .adoption {
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    width: 280px;
+    margin-left: 40px;
+    padding: 5px;
+    margin-top: 100px;
+}
+
+.introduction2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 20px;
+}
+
+.shadow {
+    font-family: 'Times New Roman', Times, serif;
+    color: royalblue;
+    height: 150px;
+    text-align: center;
+    width: 280px;
+    padding: auto;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+.lower {
+    background-color: #F5F5F5;
+}
+
+.lowest {
+    color: royalblue;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 120px;
+    margin-top: 30px;
+    width: 50%;
+    height: 300px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.upcoming, .upcomings {
+    display: inline-block;
+    width: 40%;
+    text-align: center;
+    background-color: #F5F5F5;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+
+.hh {
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: bold;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+
+.events {
+    margin-top: 30px;
+    float: right;
+    width: 40%;
+    height: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+
+}
+
+.pics {
+    height: 600px;
+}
+
+.gallery {
+    text-align: center;
+    margin-top: 40px;
+    padding: 30px;
+}
+
+.down {
+    background-color: #282b30;
+    display: inline-block;
+    width: 100%;
+    color: white;
+    padding-top: 20px;
+    height: 350px;
+}
+
+.adres {
+    float: left;
+    margin-left: 15%;
+}
+
+.links {
+    float: left;
+    margin-left: 15%;
+    text-decoration: underline;
+}
+
+.ulinks {
+    float: left;
+    margin-left: 15%;
+    text-decoration: underline;
+}
+.copyright{
+    padding-top: 10px;
+    padding-left: 60px;
+    background-color:#0000ff ;
+    color: white;
+    height: 50px;
+}
+
